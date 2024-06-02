@@ -13,21 +13,21 @@ class Users extends Seeder
         for ($i = 0; $i < 10; $i++) {
         $data = [
         [
-            'username' => 'Frisda Puspa Salsabilla',
-            'password' => '22SA11A006',
-            'firstname' => 'Frisda',
-            'lastname' => 'Salsabila',
-            'address' => 'Purwokerto, Banyumas',
-            'age' => '18',
+            'username' => 'Friskha Amellia Eddy',
+            'password' => '22SA11A276',
+            'firstname' => 'Friskha',
+            'lastname' => 'Eddy',
+            'address' => 'Cilacap',
+            'age' => '20',
             'created_date' => Time::now(),
             'updated_date' => Time::now()
         ],
         [
-            'username' => 'Azizi Asadhel',
-            'password' => '22SA11A999',
-            'firstname' => 'Azizi',
-            'lastname' => 'Asadhel',
-            'address' => 'Jakarta',
+            'username' => 'ZEEPVNK',
+            'password' => '22SA11A021',
+            'firstname' => 'ZEE',
+            'lastname' => 'PVNK',
+            'address' => 'Banjarnegara',
             'age' => '19',
             'created_date' => Time::now(),
             'updated_date' => Time::now()
